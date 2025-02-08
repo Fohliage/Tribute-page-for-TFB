@@ -12,7 +12,7 @@ p {
     font-size: 30px;
 }
 
-h1 {
+.title {
     display: flex;
     text-align: center;
 }
