@@ -1,18 +1,18 @@
 img {
-  margin-right: auto;
-  margin-left: auto;
-  max-height: 75em;
-  max-width: 95em;
-    display: flex;
-    align-items: center;
-}
-
-p {
-    color: blueviolet;
-    font-size: 30px;
-}
-
-.title {
-    display: flex;
-    text-align: center;
-}
+    margin-right: auto;
+    margin-left: auto;
+    height: auto;
+    max-width: 100%;
+      display: block;
+      align-items: center;
+  }
+  
+  p {
+      color: blueviolet;
+      font-size: 30px;
+  }
+  
+  .title {
+      display: flex;
+      text-align: center;
+  }
