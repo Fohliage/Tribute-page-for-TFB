@@ -13,6 +13,6 @@ img {
   }
   
   .title {
-      display: flex;
+      display: block;
       text-align: center;
   }
